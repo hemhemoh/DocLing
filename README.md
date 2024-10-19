@@ -21,7 +21,7 @@ Our approach showcases a pipeline designed to leverage the power of Cohere's NLP
 
 ## Requirements
 
-Before running the notebook, make sure you have the following installed:
+Before running the scripts in your local system, make sure you have the following installed:
 
 - Python 3.x
 - Jupyter Notebook or JupyterLab
